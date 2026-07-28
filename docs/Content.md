@@ -20,7 +20,7 @@
 11. [Database Architecture](D11_OpenCHAI_Database_Architecture.md)
 12. [Repository Structure](D12_OpenCHAI_Repository_Structure.md)
 13. [Coding Standards & Engineering Guidelines](D13_OpenCHAI_Coding_Standards_Engineering_Guidelines.md)
-14. [Product Roadmap](D14_OpenCHAI_Five_Year_Product_Roadmap.md)
+14. [Product Roadmap](D14_OpenCHAI_Product_Roadmap.md)
 
 ---
 
@@ -41,7 +41,7 @@
 | D11 | [Database Architecture](D11_OpenCHAI_Database_Architecture.md) | Database schema, persistence layer, and storage design. |
 | D12 | [Repository Structure](D12_OpenCHAI_Repository_Structure.md) | Source code organization, modules, and repository layout. |
 | D13 | [Coding Standards & Engineering Guidelines](D13_OpenCHAI_Coding_Standards_Engineering_Guidelines.md) | Coding conventions, engineering practices, and development standards. |
-| D14 | [Product Roadmap](D14_OpenCHAI_Five_Year_Product_Roadmap.md) | Vision, milestones, and long-term product roadmap. |
+| D14 | [Product Roadmap](D14_OpenCHAI_Product_Roadmap.md) | Vision, milestones, and long-term product roadmap. |
 
 ---
 
